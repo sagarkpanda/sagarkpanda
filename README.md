@@ -59,7 +59,7 @@
 
 ---
 
-**My Github Stats:**
+<!-- **My Github Stats:**
 
 <br>
 
@@ -69,7 +69,7 @@
 </p>
 
 <hr>
-
+ -->
 
 <!---
 sagarkrp/sagarkrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
