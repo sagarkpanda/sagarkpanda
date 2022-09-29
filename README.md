@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+there!;My+name+is+Sagar.;I+am+a+DevOps+Engineer+from+India." />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+there!;My+name+is+Sagar;I+am+a+DevOps+Engineer." />
 
 
 <!--<h1 align="center">Hi 👋, I'm Sagar</h1>
