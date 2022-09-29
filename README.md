@@ -50,7 +50,7 @@
 <!-- --- -->
 
 
-<h4 align="left"> Tools and Technologies :</h4>
+<h4 align="left"> Tools and Technologies I am faimiliar with :</h4>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="aws" width="40" height="40"/> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="azure" width="40" height="40"/>  </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
   </a>
