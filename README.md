@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sagar</h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Hello+there!;My+name+is+Sagar.;I+am+a+DevOps+Engineer+from+India." />
+
+
+<!--<h1 align="center">Hi 👋, I'm Sagar</h1>
 
 <!-- **I am <i>DevOps Engineer </i>, currently I am <sup></sup> .** -->
 <!-- <h3 align="center">A passionate DevOps Engineer </h3> -->
