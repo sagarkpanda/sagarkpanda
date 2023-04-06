@@ -24,13 +24,13 @@
 
 --- -->
 
-<!-- **Connect with me,**
+**Connect with me,**
 
-<p align = "center">
-  <a href = ".github.io/"><img src ="/></a>
-  <a href = "" target ="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href = "" target ="_blank"><img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username= =blue&style=flat&label=PROFILE+VIEWS"/a>
+<p align = "left">
+  <!-- <a href = ".github.io/"><img src ="/></a> -->
+  <a href = "https://linkedin.com/in/sagarkrp" target ="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href = "https://medium.com/@sagarkrp" target ="_blank"><img src = "https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white"></a>
+  <!-- <img src="https://komarev.com/ghpvc/?username= =blue&style=flat&label=PROFILE+VIEWS"/a>
 </p> -->
 
 <!-- --- -->
@@ -48,7 +48,6 @@
 </p> -->
 
 <!-- --- -->
-
 
 <h4 align="left"> Tools and Technologies I am faimiliar with :</h4>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" alt="aws" width="40" height="40"/> 
