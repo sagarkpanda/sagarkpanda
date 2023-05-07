@@ -21,7 +21,7 @@
 
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/aws.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
 
