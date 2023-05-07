@@ -11,7 +11,6 @@
 - :email: Email me <a href="mailto: @gmail.com">here</a> -->
 
 
-
 **Connect with me,**
 
 <p align = "left">
@@ -20,13 +19,6 @@
   <a href = "https://medium.com/@sagarkrp" target ="_blank"><img src = "https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white"></a>
   <!-- <img src="https://komarev.com/ghpvc/?username= =blue&style=flat&label=PROFILE+VIEWS"/a>
 </p> -->
-
-<!-- --- -->
-
-<!-- **My _Developer_ Profiles:**
-
-
-<!-- --- -->
 
 <h4 align="left"> Tools and Technologies I am faimiliar with :</h4>
 
@@ -56,12 +48,8 @@
  
  <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
  
-  <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+ <img align="left" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
  
- 
-
-
-
 <!---
 sagarkrp/sagarkrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
