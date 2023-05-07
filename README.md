@@ -13,7 +13,7 @@
 
 <p align = "left">
   <!-- <a href = ".github.io/"><img src ="/></a> -->
-  <a href = "https://linkedin.com/in/sagarkrp"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
+  <a href = "https://www.linkedin.com/in/sagarkrp"><img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
   <a href = "https://sagarkrp.medium.com" target ="_blank"><img src = "https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white"></a>
 </p>
 
