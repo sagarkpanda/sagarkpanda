@@ -41,7 +41,7 @@
  
 <img align="left" alt="Apache HTTPD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" style="padding-right:10px;" />
  
-<img align="left" alt="NGINX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NGINX" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/nginx-icon.svg" style="padding-right:10px;" />
  
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
  
