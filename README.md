@@ -39,7 +39,8 @@
  
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
  
-<img align="left" alt="Apache HTTPD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" style="padding-right:10px;" />
+<!-- <img align="left" alt="Apache HTTPD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" style="padding-right:10px;" /> -->
+<img align="left" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-color-tal-revivo.png" style="padding-right:10px;"/>
  
 <img align="left" alt="NGINX" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/nginx-icon.svg" style="padding-right:10px;" />
  
