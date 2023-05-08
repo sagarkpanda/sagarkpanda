@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=Hello+there!👋;My+name+is+Sagar.;I+am+a+DevOps+Engineer." />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=400&height=50&lines=Hello+there!👋;My+name+is+Sagar.;I+am+a+DevOps+Engineer." />
 <!--
 <h3 align="center"> Hi 👋, I am Sagar </h3>
 
