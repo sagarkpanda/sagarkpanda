@@ -1,6 +1,6 @@
 <p align = "center"> <image align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=Hello+there!👋;My+name+is+Sagar.;I+am+a+DevOps+Engineer." /> </p>
 
-<p align = "center">  <image align="center" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/panda.svg"> </p>
+<!-- <p align = "center">  <image align="center" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/panda.svg"> </p> -->
 
 <!--
 <h3 align="center"> Hi 👋, I am Sagar </h3>
@@ -30,7 +30,9 @@
 
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
   
-<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" style="padding-right:10px;" />
+<!--<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" style="padding-right:10px;" /> -->
+
+<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/ansible/logos/main/vscode-ansible-logo/vscode-ansible.svg" style="padding-right:10px;"/>
 
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
  
