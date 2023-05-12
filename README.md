@@ -22,7 +22,7 @@
 
 <p align="left"> <strong> Tools and Technologies I work with : </strong> </p> 
 
-<img align="left" alt="AWS" width="26px" height="28px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/aws_small.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/aws_small.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
 
