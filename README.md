@@ -17,9 +17,10 @@
 <p align = "left">
   <!-- <a href = ".github.io/"><img src ="/></a> -->
   <a href = "https://www.linkedin.com/in/sagarkrp"><img width="30px" height="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
-  <a href = "https://sagarkrp.medium.com" target ="_blank"><img src = "https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white"></a>
-</p>
-
+  <a href = "https://sagarkrp.medium.com" target ="_blank"><img src = "images/Medium-white1x.png" width="105px" height="25px"></a>
+</p> 
+<!-- https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white -->
+  
 <p align="left"> <strong> Tools and Technologies I work with : </strong> </p> 
 
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/aws_small.svg" style="padding-right:10px;" />
