@@ -1,15 +1,6 @@
 <p align = "center"> 
   
-  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=400&height=50&lines=Hello+there!👋;My+name+is+Sagar.;I+am+a+DevOps+Engineer.">
-    
-   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=400&height=50&lines=Hello+there!👋;My+name+is+Sagar.;I+am+a+DevOps+Engineer.">
-    
-   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://readme-typing-svg.herokuapp.com&center=true&vCenter=true&width=400&height=50&lines=Hello+there!👋;My+name+is+Sagar.;I+am+a+DevOps+Engineer." >
-    
-</picture>
-  
-<!--   <image align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=400&height=50&lines=Hello+there!👋;My+name+is+Sagar.;I+am+a+DevOps+Engineer." /> -->
+ <image align="center" src="https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&width=400&height=50&lines=Hello+there!👋;My+name+is+Sagar.;I+am+a+DevOps+Engineer." />
 
 </p>
 
