@@ -25,7 +25,7 @@
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="images/Medium-white1x.png" width="105px" height="25px">
    <source media="(prefers-color-scheme: light)" srcset="images/Medium-dark.svg" width="105px" height="25px"> 
-   <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="images/Medium-dark.svg" width="105px" height="25px">
+   <img alt="Medium Alternative Theme." src="images/Medium-dark.svg" width="105px" height="25px">
 </picture>
 </p> 
 <!-- https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white -->
