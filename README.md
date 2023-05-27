@@ -34,15 +34,17 @@
 
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/aws_small.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<a href = "https://sagarkrp.medium.com/how-to-install-and-setup-jenkins-on-linux-with-pipeline-job-3e2973229a8f "> <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" /> </a>
+  
+<a href ="https://sagarkrp.medium.com/docker-chapter-2-build-and-push-your-first-docker-image-7d7f9d71f1ca">
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="padding-right:10px;" /> </a>
 
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
   
 <!-- <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" style="padding-right:10px;" /> -->
 
-<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/ansible/logos/main/vscode-ansible-logo/vscode-ansible.svg" style="padding-right:10px;"/>
+<a href = "https://sagarkrp.medium.com/automation-with-ansible-101-27f709f4f8a" >
+<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/ansible/logos/main/vscode-ansible-logo/vscode-ansible.svg" style="padding-right:10px;"/> </a>
     
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
  
@@ -56,13 +58,18 @@
  
 <!-- <img align="left" alt="Apache HTTPD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" style="padding-right:10px;" /> -->
     
-<img align="left" alt="Apache HTTPD" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-color-tal-revivo.png" style="padding-right:10px;"/>
+<a href = "https://sagarkrp.medium.com/configuring-apache-http-server-in-linux-and-with-ssl-d59ff62c8a35">
+<img align="left" alt="Apache HTTPD" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-color-tal-revivo.png" style="padding-right:10px;"/> </a>
  
-<img align="left" alt="NGINX" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/nginx-icon.svg" style="padding-right:10px;" />
+   
+<a href = "https://sagarkrp.medium.com/how-to-configure-nginx-to-load-balance-multiple-servers-nginx-docker-compose-c8e1d746f02b?source=user_profile---------4----------------------------">  
+<img align="left" alt="NGINX" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/nginx-icon.svg" style="padding-right:10px;" /> </a>
  
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<a href = "https://sagarkrp.medium.com/installing-apache-mysql-php-on-ubuntu-lamp-stack-990b0527d3ad" >
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="padding-right:10px;" /> </a>
  
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<a href = "https://github.com/sagarkrp/NGINX_LB_DockerCompose">   
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> </a>
        
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" /> 
 
