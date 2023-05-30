@@ -43,7 +43,7 @@
   
 <!-- <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" style="padding-right:10px;" /> -->
 
-<a href = "https://sagarkrp.medium.com/automation-with-ansible-101-27f709f4f8a" >
+<a href = "https://sagarkrp.medium.com/automation-with-ansible-101-27f709f4f8a">
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/ansible/logos/main/vscode-ansible-logo/vscode-ansible.svg" style="padding-right:10px;"/> </a>
     
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
@@ -62,7 +62,7 @@
 <img align="left" alt="Apache HTTPD" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-color-tal-revivo.png" style="padding-right:10px;"/> </a>
  
    
-<a href = "https://sagarkrp.medium.com/how-to-configure-nginx-to-load-balance-multiple-servers-nginx-docker-compose-c8e1d746f02b?source=user_profile---------4----------------------------">  
+<a href = "https://sagarkrp.medium.com/how-to-configure-nginx-to-load-balance-multiple-servers-nginx-docker-compose-c8e1d746f02b">  
 <img align="left" alt="NGINX" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/nginx-icon.svg" style="padding-right:10px;" /> </a>
  
 <a href = "https://sagarkrp.medium.com/installing-apache-mysql-php-on-ubuntu-lamp-stack-990b0527d3ad" >
