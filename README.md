@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <a href = "https://sagarkrp.medium.com/how-to-install-and-setup-jenkins-on-linux-with-pipeline-job-3e2973229a8f "> <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" /> </a>
   
 <a href ="https://sagarkrp.medium.com/docker-chapter-2-build-and-push-your-first-docker-image-7d7f9d71f1ca">
-<img align="left" alt="Docker" width="26px" src="/images/docker.svg" style="padding-right:10px;" /> </a>
+<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" style="padding-right:10px;" /> </a>
 
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
   
