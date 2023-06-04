@@ -32,12 +32,24 @@
   
 <p align="left"> <strong> Tools and Technologies I work with : </strong> </p> 
 
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/aws_small.svg" style="padding-right:10px;" />
+ <!-- 
+AWS:
+https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg 
+https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/aws_small.svg 
+
+Aapche :
+ https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-color-tal-revivo.png
+https://raw.githubusercontent.com/devicons/devicon/develop/icons/apache/apache-original.svg
+
+GitLab:
+https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-original.svg
+-->
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 
 <a href = "https://sagarkrp.medium.com/how-to-install-and-setup-jenkins-on-linux-with-pipeline-job-3e2973229a8f "> <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" /> </a>
   
 <a href ="https://sagarkrp.medium.com/docker-chapter-2-build-and-push-your-first-docker-image-7d7f9d71f1ca">
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="padding-right:10px;" /> </a>
+<img align="left" alt="Docker" width="26px" src="/images/docker.svg" style="padding-right:10px;" /> </a>
 
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
   
@@ -52,14 +64,14 @@
  
 <!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="padding-right:10px;" /> -->
     
-<img align="left" alt="Gitlab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Gitlab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
  
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
  
 <!-- <img align="left" alt="Apache HTTPD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" style="padding-right:10px;" /> -->
     
 <a href = "https://sagarkrp.medium.com/configuring-apache-http-server-in-linux-and-with-ssl-d59ff62c8a35">
-<img align="left" alt="Apache HTTPD" width="26px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/null/external-apache-a-free-and-open-source-cross-platform-web-server-software-logo-color-tal-revivo.png" style="padding-right:10px;"/> </a>
+<img align="left" alt="Apache HTTP Server" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/apache/apache-original.svg" style="padding-right:10px;"/> </a>
  
    
 <a href = "https://sagarkrp.medium.com/how-to-configure-nginx-to-load-balance-multiple-servers-nginx-docker-compose-c8e1d746f02b">  
