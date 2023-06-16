@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <!-- <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" style="padding-right:10px;" /> -->
 
 <a href = "https://sagarkrp.medium.com/automation-with-ansible-101-27f709f4f8a">
-<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/ansible/logos/main/vscode-ansible-logo/vscode-ansible.svg" style="padding-right:10px;"/> </a>
+<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/ansible/ansible-original.svg" style="padding-right:10px;"/> </a>
     
 <img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
  
@@ -67,7 +67,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <img align="left" alt="Gitlab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
  
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
- 
+    
 <!-- <img align="left" alt="Apache HTTPD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" style="padding-right:10px;" /> -->
     
 <a href = "https://sagarkrp.medium.com/configuring-apache-http-server-in-linux-and-with-ssl-d59ff62c8a35">
