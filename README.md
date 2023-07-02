@@ -47,18 +47,22 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
 
 <a href = "https://sagarkrp.medium.com/how-to-install-and-setup-jenkins-on-linux-with-pipeline-job-3e2973229a8f "> <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" /> </a>
+
+<a href = "https://medium.com/@sagarkrp/how-to-install-and-configure-sonarqube-with-jenkins-2fe6c732620"> <img align="left" alt="SonarQube" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/sonarqube/sonarqube-original.svg" style="padding-right:10px;" /> </a>
   
 <a href ="https://sagarkrp.medium.com/docker-chapter-2-build-and-push-your-first-docker-image-7d7f9d71f1ca">
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" style="padding-right:10px;" /> </a>
 
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" />
+<a href ="https://sagarkrp.medium.com/list/kubernetes-a0f8fab4ee0d">
+<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" style="padding-right:10px;" /> </a>
   
 <!-- <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" style="padding-right:10px;" /> -->
 
 <a href = "https://sagarkrp.medium.com/automation-with-ansible-101-27f709f4f8a">
 <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/ansible/ansible-original.svg" style="padding-right:10px;"/> </a>
-    
-<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" />
+
+<a href = "https://sagarkrp.medium.com/list/terraform-20b3355e3dbb" >
+<img align="left" alt="Terraform" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" style="padding-right:10px;" /> </a>
  
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" style="padding-right:10px;" />
  
@@ -83,7 +87,11 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <a href = "https://github.com/sagarkrp/NGINX_LB_DockerCompose">   
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" /> </a>
        
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" /> 
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Prometheus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 
 <!---
 sagarkrp/sagarkrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
