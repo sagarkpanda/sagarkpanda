@@ -93,9 +93,9 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 <img align="left" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 
+<!--_ [![Sagar Medium](https://github-readme-medium.vercel.app/?username=sagarkrp&limit=3&bg=grey&text=white)](https://sagarkrp.medium.com/) --->
 
 
-[![Sagar Medium](https://github-readme-medium.vercel.app/?username=sagarkrp&limit=3&bg=black&text=white)](https://sagarkrp.medium.com/)
 <!---
 sagarkrp/sagarkrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
