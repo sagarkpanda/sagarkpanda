@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <br />
 <br />
 
-**📕 Latest Posts:**
+**📕 Latest Posts :**
 
 <!-- BLOG-POST-LIST:START -->
 - [Terraform — Understanding the .tfstate file](https://sagarkrp.medium.com/understanding-the-tfstate-in-terrafrom-a8c9d78cabeb?source=rss-9505e5fe7f15------2)
