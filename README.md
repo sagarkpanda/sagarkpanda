@@ -96,7 +96,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <br />
 <br />
 
-**Latest Posts :**
+**📕 Latest Posts:**
 
 <!-- BLOG-POST-LIST:START -->
 - [Terraform — Understanding the .tfstate file](https://sagarkrp.medium.com/understanding-the-tfstate-in-terrafrom-a8c9d78cabeb?source=rss-9505e5fe7f15------2)
@@ -105,6 +105,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 - [Infrastructure Automation: Terraform 101](https://sagarkrp.medium.com/infrastructure-automation-terraform-101-54eeaa357169?source=rss-9505e5fe7f15------2)
 - [Kubernetes Deep Dive — Pods, Pull Policy, Labels &amp; Selectors](https://medium.com/cloud-native-daily/kubernetes-deep-dive-pods-pull-policy-labels-selectors-2bba5200ec5c?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
+
 
 <!---
 sagarkrp/sagarkrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
