@@ -96,8 +96,8 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <br />
 <br />
 
-<!--_ [![Sagar Medium](https://github-readme-medium.vercel.app/?username=sagarkrp&limit=3&bg=grey&text=white)](https://sagarkrp.medium.com/) --->
-** Latest Blog posts: **
+**Latest Posts :**
+
 <!-- BLOG-POST-LIST:START -->
 - [Terraform — Understanding the .tfstate file](https://sagarkrp.medium.com/understanding-the-tfstate-in-terrafrom-a8c9d78cabeb?source=rss-9505e5fe7f15------2)
 - [Terraform on AWS — Outputs, Indexing and Variables](https://sagarkrp.medium.com/terraform-on-aws-outputs-indexing-and-variables-db2608e087fd?source=rss-9505e5fe7f15------2)
