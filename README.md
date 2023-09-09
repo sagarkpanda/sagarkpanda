@@ -101,11 +101,11 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 **📕 Latest Posts :**
 
 <!-- BLOG-POST-LIST:START -->
+- [Send Email Alerts using Prometheus AlertManager](https://blog.devops.dev/send-email-alerts-using-prometheus-alert-manager-16df870144a4?source=rss-9505e5fe7f15------2)
 - [Setup Monitoring — Prometheus and Grafana.](https://blog.devops.dev/setup-monitoring-prometheus-and-grafana-2431b26cd757?source=rss-9505e5fe7f15------2)
 - [Delving into the World of Deployments in Kubernetes](https://medium.com/cloud-native-daily/delving-into-the-world-of-deployments-in-kubernetes-61f75a05b8a5?source=rss-9505e5fe7f15------2)
 - [Terraform — Understanding the .tfstate file](https://sagarkrp.medium.com/understanding-the-tfstate-in-terrafrom-a8c9d78cabeb?source=rss-9505e5fe7f15------2)
 - [Terraform on AWS — Outputs, Indexing and Variables](https://sagarkrp.medium.com/terraform-on-aws-outputs-indexing-and-variables-db2608e087fd?source=rss-9505e5fe7f15------2)
-- [Kubernetes — Exploring ReplicaSet, Service types &amp; Deployment](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 
