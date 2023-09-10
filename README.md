@@ -89,7 +89,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
        
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Prometheus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
+<a href="https://medium.com/devops-dev/setup-monitoring-prometheus-and-grafana-2431b26cd757"> <img align="left" alt="Prometheus" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/prometheus/prometheus-original.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 
