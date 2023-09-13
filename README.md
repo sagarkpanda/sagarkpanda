@@ -101,7 +101,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 **📕 Latest Posts :**
 
 <!-- BLOG-POST-LIST:START -->
-- [Send Email Alerts using Prometheus AlertManager](https://blog.devops.dev/send-email-alerts-using-prometheus-alert-manager-16df870144a4?source=rss-9505e5fe7f15------2)
+- [How to Send Email Alerts using Prometheus AlertManager](https://blog.devops.dev/send-email-alerts-using-prometheus-alert-manager-16df870144a4?source=rss-9505e5fe7f15------2)
 - [Setup Monitoring — Prometheus and Grafana.](https://blog.devops.dev/setup-monitoring-prometheus-and-grafana-2431b26cd757?source=rss-9505e5fe7f15------2)
 - [Delving into the World of Deployments in Kubernetes](https://medium.com/cloud-native-daily/delving-into-the-world-of-deployments-in-kubernetes-61f75a05b8a5?source=rss-9505e5fe7f15------2)
 - [Terraform — Understanding the .tfstate file](https://sagarkrp.medium.com/understanding-the-tfstate-in-terrafrom-a8c9d78cabeb?source=rss-9505e5fe7f15------2)
