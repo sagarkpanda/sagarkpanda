@@ -109,6 +109,8 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 - [Terraform on AWS — Outputs, Indexing and Variables](https://sagarkrp.medium.com/terraform-on-aws-outputs-indexing-and-variables-db2608e087fd?source=rss-9505e5fe7f15------2)
 - [Kubernetes — Exploring ReplicaSet, Service types &amp; Deployment](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c?source=rss-9505e5fe7f15------2)
 - [Infrastructure Automation: Terraform 101](https://sagarkrp.medium.com/infrastructure-automation-terraform-101-54eeaa357169?source=rss-9505e5fe7f15------2)
+- [Kubernetes Deep Dive — Pods, Pull Policy, Labels &amp; Selectors](https://medium.com/cloud-native-daily/kubernetes-deep-dive-pods-pull-policy-labels-selectors-2bba5200ec5c?source=rss-9505e5fe7f15------2)
+- [Container Orchestration: Kubernetes 101](https://medium.com/cloud-native-daily/container-orchestration-with-kubernetes-101-55e4abdff667?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 
