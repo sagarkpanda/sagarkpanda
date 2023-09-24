@@ -99,10 +99,10 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 &nbsp;
 
 <b>
-<details>
-<summary>
+<!-- <details>
+<summary></summary> -->
 📕 Latest Blog Posts
-</summary>
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Terraform Remote Backend on AWS S3 Bucket with DynamoDB lock.](https://sagarkrp.medium.com/configure-terraform-remote-backend-on-aws-s3-bucket-comprehensive-guide-57bf9a83a325?source=rss-9505e5fe7f15------2)
@@ -117,7 +117,8 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 - [Container Orchestration: Kubernetes 101](https://medium.com/cloud-native-daily/container-orchestration-with-kubernetes-101-55e4abdff667?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
-</details> </b>
+<!-- </details> -->
+</b>
 
 
 <!---
