@@ -105,6 +105,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Visualize Your Website Metrics —  Blackbox Exporter and Grafana](https://sagarkrp.medium.com/visualize-your-website-metrics-blackbox-exporter-and-grafana-fa118b1aa843?source=rss-9505e5fe7f15------2)
 - [Terraform Remote Backend on AWS S3 Bucket with DynamoDB lock.](https://sagarkrp.medium.com/configure-terraform-remote-backend-on-aws-s3-bucket-comprehensive-guide-57bf9a83a325?source=rss-9505e5fe7f15------2)
 - [How to Send Email Alerts using Prometheus AlertManager](https://blog.devops.dev/send-email-alerts-using-prometheus-alert-manager-16df870144a4?source=rss-9505e5fe7f15------2)
 - [Setup Monitoring — Prometheus and Grafana.](https://blog.devops.dev/setup-monitoring-prometheus-and-grafana-2431b26cd757?source=rss-9505e5fe7f15------2)
@@ -114,7 +115,6 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 - [Kubernetes — Exploring ReplicaSet, Service types &amp; Deployment](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c?source=rss-9505e5fe7f15------2)
 - [Infrastructure Automation: Terraform 101](https://sagarkrp.medium.com/infrastructure-automation-terraform-101-54eeaa357169?source=rss-9505e5fe7f15------2)
 - [Kubernetes Deep Dive — Pods, Pull Policy, Labels &amp; Selectors](https://medium.com/cloud-native-daily/kubernetes-deep-dive-pods-pull-policy-labels-selectors-2bba5200ec5c?source=rss-9505e5fe7f15------2)
-- [Container Orchestration: Kubernetes 101](https://medium.com/cloud-native-daily/container-orchestration-with-kubernetes-101-55e4abdff667?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
