@@ -105,7 +105,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Visualize Your Website Metrics —  Blackbox Exporter and Grafana](https://sagarkrp.medium.com/visualize-your-website-metrics-blackbox-exporter-and-grafana-fa118b1aa843?source=rss-9505e5fe7f15------2)
+- [Visualize Your Website Metrics —  Blackbox Exporter and Grafana](https://blog.devops.dev/visualize-your-website-metrics-blackbox-exporter-and-grafana-fa118b1aa843?source=rss-9505e5fe7f15------2)
 - [Terraform Remote Backend on AWS S3 Bucket with DynamoDB lock.](https://sagarkrp.medium.com/configure-terraform-remote-backend-on-aws-s3-bucket-comprehensive-guide-57bf9a83a325?source=rss-9505e5fe7f15------2)
 - [How to Send Email Alerts using Prometheus AlertManager](https://blog.devops.dev/send-email-alerts-using-prometheus-alert-manager-16df870144a4?source=rss-9505e5fe7f15------2)
 - [Setup Monitoring — Prometheus and Grafana.](https://blog.devops.dev/setup-monitoring-prometheus-and-grafana-2431b26cd757?source=rss-9505e5fe7f15------2)
