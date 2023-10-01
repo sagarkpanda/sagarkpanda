@@ -93,6 +93,8 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 <img align="left" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/newrelic.svg" style="padding-right:10px;" />
+
 \
 &nbsp;
 \
