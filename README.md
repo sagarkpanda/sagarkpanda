@@ -11,9 +11,9 @@
 **I am a DevOps Engineer.** 
 <!-- <h3 align="center">A passionate DevOps Engineer </h3> -->
 
-<!-- - 👨🏽‍.
-- 🌐 Visit my [porfolio website](https://.github.io/) for complete background and contact.
-- :email: Email me <a href="mailto: @gmail.com">here</a> -->
+<!-- 👨 -->
+
+<!--- :email: Email me <a href="mailto: @gmail.com">here</a> -->
 
 **Connect with me :**
 
@@ -29,6 +29,8 @@
 </picture>
 </p> 
 <!-- https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white -->
+
+🌐 Visit my [website](https://sagarkrp.github.io/) for more information.
   
 <p align="left"> <strong> Tools and Technologies I work with : </strong> </p> 
 
@@ -101,6 +103,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 &nbsp;
 
 <b>
+
 <!-- <details>
 <summary></summary> -->
 📕 Latest Blog Posts
