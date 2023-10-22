@@ -110,6 +110,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 
 <!-- BLOG-POST-LIST:START -->
+- [A Beginner’s Introduction to GitHub Actions for DevOps](https://blog.devops.dev/github-actions-your-key-to-continuous-integration-and-deployment-55e14f62713b?source=rss-9505e5fe7f15------2)
 - [Visualize Your Website Metrics —  Blackbox Exporter and Grafana](https://blog.devops.dev/visualize-your-website-metrics-blackbox-exporter-and-grafana-fa118b1aa843?source=rss-9505e5fe7f15------2)
 - [Terraform Remote Backend on AWS S3 Bucket with DynamoDB lock.](https://sagarkrp.medium.com/configure-terraform-remote-backend-on-aws-s3-bucket-comprehensive-guide-57bf9a83a325?source=rss-9505e5fe7f15------2)
 - [How to Send Email Alerts using Prometheus AlertManager](https://blog.devops.dev/send-email-alerts-using-prometheus-alert-manager-16df870144a4?source=rss-9505e5fe7f15------2)
@@ -119,7 +120,6 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 - [Terraform on AWS — Outputs, Indexing and Variables](https://sagarkrp.medium.com/terraform-on-aws-outputs-indexing-and-variables-db2608e087fd?source=rss-9505e5fe7f15------2)
 - [Kubernetes — Exploring ReplicaSet, Service types &amp; Deployment](https://medium.com/cloud-native-daily/kubernetes-exploring-replicaset-service-types-deployment-d8e5ddad488c?source=rss-9505e5fe7f15------2)
 - [Infrastructure Automation: Terraform 101](https://sagarkrp.medium.com/infrastructure-automation-terraform-101-54eeaa357169?source=rss-9505e5fe7f15------2)
-- [Kubernetes Deep Dive — Pods, Pull Policy, Labels &amp; Selectors](https://medium.com/cloud-native-daily/kubernetes-deep-dive-pods-pull-policy-labels-selectors-2bba5200ec5c?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
