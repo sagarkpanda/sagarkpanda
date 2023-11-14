@@ -110,7 +110,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Security Context: Capabilities explained.](https://sagarkrp.medium.com/kubernetes-security-context-capabilities-explained-4fdc7d32de66?source=rss-9505e5fe7f15------2)
+- [Kubernetes Security Context  — Capabilities explained.](https://blog.devops.dev/kubernetes-security-context-capabilities-explained-4fdc7d32de66?source=rss-9505e5fe7f15------2)
 - [SSL for Everyone: A Guide to configure Let’s Encrypt using Certbot](https://blog.devops.dev/ssl-for-everyone-a-guide-to-configure-lets-encrypt-with-certbot-13c4098b84d9?source=rss-9505e5fe7f15------2)
 - [A Beginner’s Introduction to GitHub Actions for DevOps](https://blog.devops.dev/github-actions-your-key-to-continuous-integration-and-deployment-55e14f62713b?source=rss-9505e5fe7f15------2)
 - [Visualize Your Website Metrics —  Blackbox Exporter and Grafana](https://blog.devops.dev/visualize-your-website-metrics-blackbox-exporter-and-grafana-fa118b1aa843?source=rss-9505e5fe7f15------2)
