@@ -29,8 +29,11 @@
 </picture>
 </p> 
 <!-- https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white -->
+<b>
+  
+🌀 Visit my [website](https://sagarpanda.com/) for more info
 
-🌐 Visit my [website](https://sagarpanda.com/) for more information.
+</b>
   
 <p align="left"> <strong> Tools and Technologies I work with : </strong> </p> 
 
