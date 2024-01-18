@@ -128,9 +128,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <!-- </details> -->
 </b>
 
-<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=5&id=47915&s=40' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div>
-
-
+<!-- <div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=5&id=47915&s=40' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div> -->
 
 <!---
 sagarkrp/sagarkrp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
