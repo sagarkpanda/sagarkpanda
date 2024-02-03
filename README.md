@@ -19,9 +19,9 @@
 
 <p align = "left">
   <!-- <a href = ".github.io/"><img src ="/></a> -->
-  <a href = "https://www.linkedin.com/in/sagarkrp"><img width="30px" height="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
+  <a href = "https://www.linkedin.com/in/sagarkpanda"><img width="30px" height="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
 
-<a href = "https://sagarkrp.medium.com">
+<a href = "https://sagarcodectrl.medium.com">
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="images/Medium-white1x.png" width="105px" height="25px">
    <source media="(prefers-color-scheme: light)" srcset="images/Medium-dark.svg" width="105px" height="25px"> 
