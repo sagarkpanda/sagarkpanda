@@ -33,5 +33,5 @@ jobs:
 
         with:
 
-          feed_list: "https://sagarkrp.medium.com/feed"
+          feed_list: "https://sagarcodectrl.medium.com/feed"
           max_post_count: 10
