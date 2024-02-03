@@ -118,11 +118,11 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 - [The Complete DIY Guide —  Let’s Encrypt SSL Configuration Using  Certbot](https://blog.devops.dev/ssl-for-everyone-a-guide-to-configure-lets-encrypt-with-certbot-13c4098b84d9?source=rss-9505e5fe7f15------2)
 - [A Beginner’s Introduction to GitHub Actions for DevOps](https://blog.devops.dev/github-actions-your-key-to-continuous-integration-and-deployment-55e14f62713b?source=rss-9505e5fe7f15------2)
 - [Visualize Your Website Metrics —  Blackbox Exporter and Grafana](https://blog.devops.dev/visualize-your-website-metrics-blackbox-exporter-and-grafana-fa118b1aa843?source=rss-9505e5fe7f15------2)
-- [Terraform Remote Backend on AWS S3 Bucket with DynamoDB lock.](https://sagarkrp.medium.com/configure-terraform-remote-backend-on-aws-s3-bucket-comprehensive-guide-57bf9a83a325?source=rss-9505e5fe7f15------2)
+- [Terraform Remote Backend on AWS S3 Bucket with DynamoDB lock.](https://sagarcodectrl.medium.com/configure-terraform-remote-backend-on-aws-s3-bucket-comprehensive-guide-57bf9a83a325?source=rss-9505e5fe7f15------2)
 - [How to Send Email Alerts using Prometheus AlertManager](https://blog.devops.dev/send-email-alerts-using-prometheus-alert-manager-16df870144a4?source=rss-9505e5fe7f15------2)
 - [Setup Monitoring — Prometheus and Grafana.](https://blog.devops.dev/setup-monitoring-prometheus-and-grafana-2431b26cd757?source=rss-9505e5fe7f15------2)
 - [Delving into the World of Deployments in Kubernetes](https://medium.com/cloud-native-daily/delving-into-the-world-of-deployments-in-kubernetes-61f75a05b8a5?source=rss-9505e5fe7f15------2)
-- [Terraform — Understanding the .tfstate file](https://sagarkrp.medium.com/understanding-the-tfstate-in-terrafrom-a8c9d78cabeb?source=rss-9505e5fe7f15------2)
+- [Terraform — Understanding the .tfstate file](https://sagarcodectrl.medium.com/understanding-the-tfstate-in-terrafrom-a8c9d78cabeb?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
