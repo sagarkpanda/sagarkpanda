@@ -15,7 +15,7 @@ permissions:
 
 jobs:
 
-  update-readme-with-blog:
+  update-readme:
 
     name: Update this repo's README with latest medium posts
 
