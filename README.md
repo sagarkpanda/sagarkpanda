@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Cluster: ArgoCD GitOps for Kubernetes](https://faun.pub/from-code-to-cluster-argocd-gitops-for-kubernetes-895c734677ef?source=rss-9505e5fe7f15------2)
+- [From Code to Cluster: ArgoCD GitOps for Kubernetes](https://awstip.com/from-code-to-cluster-argocd-gitops-for-kubernetes-895c734677ef?source=rss-9505e5fe7f15------2)
 - [Calico and Kubernetes: A Perfect Pair for Robust Network Policy](https://faun.pub/calico-and-kubernetes-a-perfect-pair-for-robust-network-policy-2b91eb4eec44?source=rss-9505e5fe7f15------2)
 - [Kubernetes Security Context  — Capabilities explained.](https://blog.devops.dev/kubernetes-security-context-capabilities-explained-4fdc7d32de66?source=rss-9505e5fe7f15------2)
 - [The Complete DIY Guide —  Let’s Encrypt SSL Configuration Using  Certbot](https://blog.devops.dev/ssl-for-everyone-a-guide-to-configure-lets-encrypt-with-certbot-13c4098b84d9?source=rss-9505e5fe7f15------2)
