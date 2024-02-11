@@ -35,4 +35,4 @@ jobs:
 
           feed_list: "https://sagarcodectrl.medium.com/feed"
           max_post_count: 10
-          template: $counter
+          template: $date, $title
