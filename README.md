@@ -112,18 +112,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 📕 Latest Blog Posts
 
 
-<!-- BLOG-POST-LIST:START -->
-- [From Code to Cluster: ArgoCD GitOps for Kubernetes](https://awstip.com/from-code-to-cluster-argocd-gitops-for-kubernetes-895c734677ef?source=rss-9505e5fe7f15------2)
-- [Calico and Kubernetes: A Perfect Pair for Robust Network Policy](https://faun.pub/calico-and-kubernetes-a-perfect-pair-for-robust-network-policy-2b91eb4eec44?source=rss-9505e5fe7f15------2)
-- [Kubernetes Security Context  — Capabilities explained.](https://blog.devops.dev/kubernetes-security-context-capabilities-explained-4fdc7d32de66?source=rss-9505e5fe7f15------2)
-- [The Complete DIY Guide —  Let’s Encrypt SSL Setup Using Certbot](https://blog.devops.dev/ssl-for-everyone-a-guide-to-configure-lets-encrypt-with-certbot-13c4098b84d9?source=rss-9505e5fe7f15------2)
-- [A Beginner’s Introduction to GitHub Actions for DevOps](https://blog.devops.dev/github-actions-your-key-to-continuous-integration-and-deployment-55e14f62713b?source=rss-9505e5fe7f15------2)
-- [Visualize Your Website Metrics —  Blackbox Exporter and Grafana](https://blog.devops.dev/visualize-your-website-metrics-blackbox-exporter-and-grafana-fa118b1aa843?source=rss-9505e5fe7f15------2)
-- [Terraform Remote Backend on AWS S3 Bucket with DynamoDB lock.](https://sagarcodectrl.medium.com/configure-terraform-remote-backend-on-aws-s3-bucket-comprehensive-guide-57bf9a83a325?source=rss-9505e5fe7f15------2)
-- [How to Send Email Alerts using Prometheus AlertManager](https://blog.devops.dev/send-email-alerts-using-prometheus-alert-manager-16df870144a4?source=rss-9505e5fe7f15------2)
-- [Setup Monitoring — Prometheus and Grafana.](https://blog.devops.dev/setup-monitoring-prometheus-and-grafana-2431b26cd757?source=rss-9505e5fe7f15------2)
-- [Delving into the World of Deployments in Kubernetes](https://medium.com/cloud-native-daily/delving-into-the-world-of-deployments-in-kubernetes-61f75a05b8a5?source=rss-9505e5fe7f15------2)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->12345678910<!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
 </b>
