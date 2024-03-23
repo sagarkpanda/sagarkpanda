@@ -17,7 +17,7 @@ jobs:
 
   update-readme:
 
-    name: Update this repo's README with latest medium posts
+    name: Update Readme
 
     runs-on: ubuntu-latest
 
