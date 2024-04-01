@@ -114,6 +114,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Nginx Ingress Controller for Kubernetes Networking.](https://faun.pub/nginx-ingress-controller-for-kubernetes-networking-8a452fb66d62?source=rss-9505e5fe7f15------2)
 - [If Statement — Conditional in Bash Scripting](https://awstip.com/if-statement-conditional-in-bash-scripting-83cdcdf68e4c?source=rss-9505e5fe7f15------2)
 - [Bash Scripting — Variables and Math Functions](https://faun.pub/variables-and-math-functions-in-bash-db1b8650a898?source=rss-9505e5fe7f15------2)
 - [Introduction to Shell Scripting for Beginners](https://blog.devops.dev/introduction-to-shell-scripting-for-beginners-63a2bca2f428?source=rss-9505e5fe7f15------2)
@@ -123,7 +124,6 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 - [The Complete DIY Guide —  Let’s Encrypt SSL Setup Using Certbot](https://blog.devops.dev/ssl-for-everyone-a-guide-to-configure-lets-encrypt-with-certbot-13c4098b84d9?source=rss-9505e5fe7f15------2)
 - [A Beginner’s Introduction to GitHub Actions for DevOps](https://blog.devops.dev/github-actions-your-key-to-continuous-integration-and-deployment-55e14f62713b?source=rss-9505e5fe7f15------2)
 - [Visualize Your Website Metrics —  Blackbox Exporter and Grafana](https://blog.devops.dev/visualize-your-website-metrics-blackbox-exporter-and-grafana-fa118b1aa843?source=rss-9505e5fe7f15------2)
-- [Terraform Remote Backend on AWS S3 Bucket with DynamoDB lock.](https://sagarcodectrl.medium.com/configure-terraform-remote-backend-on-aws-s3-bucket-comprehensive-guide-57bf9a83a325?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
