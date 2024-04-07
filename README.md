@@ -21,7 +21,7 @@
   <!-- <a href = ".github.io/"><img src ="/></a> -->
   <a href = "https://www.linkedin.com/in/sagarkpanda"><img width="30px" height="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
 
-<a href = "https://sagarcodectrl.medium.com">
+<a href = "https://sagarkpanda.medium.com">
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="images/Medium-white1x.png" width="105px" height="25px">
    <source media="(prefers-color-scheme: light)" srcset="images/Medium-dark.svg" width="105px" height="25px"> 
@@ -75,7 +75,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
     
 <img align="left" alt="Gitlab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
 
-<a href = "https://medium.com/@sagarcodectrl/list/7f6f807edcf2" >
+<a href = "https://medium.com/@sagarkpanda/list/7f6f807edcf2" >
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
     
 <!-- <img align="left" alt="Apache HTTPD" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" style="padding-right:10px;" /> -->
