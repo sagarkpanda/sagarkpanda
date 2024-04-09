@@ -114,7 +114,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Ingress in K8s — Domain  name based Routing with TLS](https://blog.devops.dev/ingress-in-k8s-hostname-based-routing-with-tls-9173b09ad5c9?source=rss-9505e5fe7f15------2)
+- [Ingress in K8s — Domain  name based Routing with TLS](https://faun.pub/ingress-in-k8s-hostname-based-routing-with-tls-9173b09ad5c9?source=rss-9505e5fe7f15------2)
 - [Nginx Ingress Controller for Kubernetes Networking.](https://faun.pub/nginx-ingress-controller-for-kubernetes-networking-8a452fb66d62?source=rss-9505e5fe7f15------2)
 - [If Statement — Conditional in Bash Scripting](https://awstip.com/if-statement-conditional-in-bash-scripting-83cdcdf68e4c?source=rss-9505e5fe7f15------2)
 - [Bash Scripting — Variables and Math Functions](https://faun.pub/variables-and-math-functions-in-bash-db1b8650a898?source=rss-9505e5fe7f15------2)
