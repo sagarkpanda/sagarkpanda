@@ -23,7 +23,7 @@
 <p align = "left">
   <!-- <a href = ".github.io/"><img src ="/></a> -->
   <a href = "https://www.linkedin.com/in/sagarkpanda"><img alt="LinkedIn" width="30px" height="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
-<a href="mailto:job.stroller152@aleeas.com"><img alt="Mail"width="30px" height="28px" src="images/proton_mail.svg" style="padding-right:10px;"/>
+<a href="mailto:sagar.chip239@aleeas.com"><img alt="Mail"width="30px" height="28px" src="images/proton_mail.svg" style="padding-right:10px;"/>
 <a href="https://t.me/artisticw1zard"><img alt="Telegram" width="30px" height="28px" src="images/tg.svg" style="padding-right:10px;"/>
 
 
