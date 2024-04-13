@@ -104,8 +104,9 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 <b>
 
-
+<p>
 My Blogs on DevOps:
+</p>
 <a href = "https://sagarkpanda.medium.com">
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="images/Medium-white1x.png" width="105px" height="25px">
