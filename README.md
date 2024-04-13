@@ -113,7 +113,7 @@ My Blogs on DevOps:
    <source media="(prefers-color-scheme: light)" srcset="images/Medium-dark.svg" width="105px" height="25px"> 
    <img alt="Medium Alternative Theme." src="images/Medium-dark.svg" width="105px" height="25px">
 </picture>
-</p> 
+</p> </a>
 <!-- <details>
 <summary></summary> -->
 📕 Latest Blog Posts
