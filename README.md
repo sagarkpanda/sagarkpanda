@@ -19,9 +19,9 @@
 
 <p align = "left">
   <!-- <a href = ".github.io/"><img src ="/></a> -->
-  <a href = "https://www.linkedin.com/in/sagarkpanda"><img width="30px" height="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
-<a href="mailto:job.stroller152@aleeas.com"><img width="30px" height="28px" src="images/proton_mail.svg" style="padding-right:10px;"/>
-<a href = "t.me/artisticw1zard"><img width="30px" height="28px" src="images/tg.svg" style="padding-right:10px;"/>
+  <a href = "https://www.linkedin.com/in/sagarkpanda"><img alt="LinkedIn" width="30px" height="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/>
+<a href="mailto:job.stroller152@aleeas.com"><img alt="Mail"width="30px" height="28px" src="images/proton_mail.svg" style="padding-right:10px;"/>
+<a href="https://t.me/artisticw1zard"><img alt="Telegram" width="30px" height="28px" src="images/tg.svg" style="padding-right:10px;"/>
 
 
 <!-- https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white -->
@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 <b>
 
-Read My Blogs on DevOps:
+My Blogs on DevOps:
 <a href = "https://sagarkpanda.medium.com">
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="images/Medium-white1x.png" width="105px" height="25px">
