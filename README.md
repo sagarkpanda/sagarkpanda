@@ -31,7 +31,9 @@
 
 </b>
   
-<p align="left"> <strong> Tools and Technologies I work with : </strong> </p> 
+<p align="left"> <strong> Tools and Technologies I work with : </strong> </p>
+
+<p>
 
  <!-- 
 AWS:
@@ -95,7 +97,9 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 <img align="left" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/grafana/grafana-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/newrelic.svg" style="padding-right:10px;" />
+<img align="left" alt="Grafana" width="26px" src="https://raw.githubusercontent.com/sagarkrp/sagarkrp/main/images/newrelic.svg" style="padding-right:10px;" /> 
+
+</p>
 
 \
 &nbsp;
