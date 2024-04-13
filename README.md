@@ -27,7 +27,7 @@
 <!-- https://img.shields.io/badge/medium-%23E4405G.svg?&style=for-the-badge&logo=medium&logoColor=black&white -->
 <b>
   
-🌀 Visit my [website](https://sagarpanda.com/) for more info
+🌀 Visit my [website](https://sagarpanda.com/)
 
 </b>
   
@@ -103,6 +103,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 &nbsp;
 
 <b>
+
 
 My Blogs on DevOps:
 <a href = "https://sagarkpanda.medium.com">
