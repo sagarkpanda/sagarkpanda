@@ -127,6 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Storage in Kubernetes —  Persistent Volume and Claims.](https://faun.pub/storage-in-kubernetes-persistent-volume-and-claims-77d493a36221?source=rss-9505e5fe7f15------2)
 - [Ingress in K8s — Domain  name based Routing with TLS](https://blog.devops.dev/ingress-in-k8s-hostname-based-routing-with-tls-9173b09ad5c9?source=rss-9505e5fe7f15------2)
 - [Nginx Ingress Controller for Kubernetes Networking.](https://faun.pub/nginx-ingress-controller-for-kubernetes-networking-8a452fb66d62?source=rss-9505e5fe7f15------2)
 - [If Statement — Conditional in Bash Scripting](https://awstip.com/if-statement-conditional-in-bash-scripting-83cdcdf68e4c?source=rss-9505e5fe7f15------2)
@@ -136,7 +137,6 @@ My Blogs on DevOps:
 - [Calico and Kubernetes: A Perfect Pair for Robust Network Policy](https://faun.pub/calico-and-kubernetes-a-perfect-pair-for-robust-network-policy-2b91eb4eec44?source=rss-9505e5fe7f15------2)
 - [Kubernetes Security Context  — Capabilities explained.](https://blog.devops.dev/kubernetes-security-context-capabilities-explained-4fdc7d32de66?source=rss-9505e5fe7f15------2)
 - [The Complete DIY Guide —  Let’s Encrypt SSL Setup Using Certbot](https://blog.devops.dev/ssl-for-everyone-a-guide-to-configure-lets-encrypt-with-certbot-13c4098b84d9?source=rss-9505e5fe7f15------2)
-- [A Beginner’s Introduction to GitHub Actions for DevOps](https://blog.devops.dev/github-actions-your-key-to-continuous-integration-and-deployment-55e14f62713b?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
