@@ -127,7 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Storage in Kubernetes —  Persistent Volume and Claims.](https://faun.pub/storage-in-kubernetes-persistent-volume-and-claims-77d493a36221?source=rss-9505e5fe7f15------2)
+- [Storage in Kubernetes —  Persistent Volume and Claims.](https://blog.devops.dev/storage-in-kubernetes-persistent-volume-and-claims-77d493a36221?source=rss-9505e5fe7f15------2)
 - [Ingress in K8s — Domain  name based Routing with TLS](https://blog.devops.dev/ingress-in-k8s-hostname-based-routing-with-tls-9173b09ad5c9?source=rss-9505e5fe7f15------2)
 - [Nginx Ingress Controller for Kubernetes Networking.](https://faun.pub/nginx-ingress-controller-for-kubernetes-networking-8a452fb66d62?source=rss-9505e5fe7f15------2)
 - [If Statement — Conditional in Bash Scripting](https://awstip.com/if-statement-conditional-in-bash-scripting-83cdcdf68e4c?source=rss-9505e5fe7f15------2)
