@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/docker.svg" style="padding-right:10px;" /> </a>
 
 <a href ="https://sagarkrp.medium.com/list/kubernetes-a0f8fab4ee0d">
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo_with_border.svg" style="padding-right:10px;" /> </a>
+<img align="left" alt="Kubernetes" width="26px" src="images/k8s.png" style="padding-right:10px;" /> </a>
   
 <!-- <img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" style="padding-right:10px;" /> -->
 
