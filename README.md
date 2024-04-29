@@ -127,7 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Simplify EC2 Management with Lambda Function.](https://awstip.com/simplify-ec2-management-with-lambda-40359d0430dd?source=rss-9505e5fe7f15------2)
+- [Simplify EC2 Management with AWS Lambda Function.](https://awstip.com/simplify-ec2-management-with-lambda-40359d0430dd?source=rss-9505e5fe7f15------2)
 - [Storage in Kubernetes —  Persistent Volume and Claims.](https://blog.devops.dev/storage-in-kubernetes-persistent-volume-and-claims-77d493a36221?source=rss-9505e5fe7f15------2)
 - [Ingress in K8s — Domain  name based Routing with TLS](https://blog.devops.dev/ingress-in-k8s-hostname-based-routing-with-tls-9173b09ad5c9?source=rss-9505e5fe7f15------2)
 - [Nginx Ingress Controller for Kubernetes Networking.](https://faun.pub/nginx-ingress-controller-for-kubernetes-networking-8a452fb66d62?source=rss-9505e5fe7f15------2)
