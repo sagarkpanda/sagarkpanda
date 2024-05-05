@@ -127,6 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential Linux Terminal Hacks for Efficiency.](https://blog.devops.dev/essential-linux-terminal-hacks-for-efficiency-1ea5f5bac437?source=rss-9505e5fe7f15------2)
 - [Helm — Your Compass in the Kubernetes Universe](https://faun.pub/helm-your-compass-in-the-kubernetes-universe-424f48f239d3?source=rss-9505e5fe7f15------2)
 - [Simplify EC2 Management with AWS Lambda Function.](https://awstip.com/simplify-ec2-management-with-lambda-40359d0430dd?source=rss-9505e5fe7f15------2)
 - [Storage in Kubernetes —  Persistent Volume and Claims.](https://blog.devops.dev/storage-in-kubernetes-persistent-volume-and-claims-77d493a36221?source=rss-9505e5fe7f15------2)
@@ -136,7 +137,6 @@ My Blogs on DevOps:
 - [Bash Scripting — Variables and Math Functions](https://faun.pub/variables-and-math-functions-in-bash-db1b8650a898?source=rss-9505e5fe7f15------2)
 - [Introduction to Shell Scripting for Beginners](https://blog.devops.dev/introduction-to-shell-scripting-for-beginners-63a2bca2f428?source=rss-9505e5fe7f15------2)
 - [From Code to Cluster: ArgoCD GitOps for Kubernetes](https://awstip.com/from-code-to-cluster-argocd-gitops-for-kubernetes-895c734677ef?source=rss-9505e5fe7f15------2)
-- [Calico and Kubernetes: A Perfect Pair for Robust Network Policy](https://faun.pub/calico-and-kubernetes-a-perfect-pair-for-robust-network-policy-2b91eb4eec44?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
