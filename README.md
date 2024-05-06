@@ -127,7 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Linux Terminal Hacks for Efficiency.](https://blog.devops.dev/essential-linux-terminal-hacks-for-efficiency-1ea5f5bac437?source=rss-9505e5fe7f15------2)
+- [Essential Linux Terminal Hacks for Efficiency.](https://faun.pub/essential-linux-terminal-hacks-for-efficiency-1ea5f5bac437?source=rss-9505e5fe7f15------2)
 - [Helm — Your Compass in the Kubernetes Universe](https://faun.pub/helm-your-compass-in-the-kubernetes-universe-424f48f239d3?source=rss-9505e5fe7f15------2)
 - [Simplify EC2 Management with AWS Lambda Function.](https://awstip.com/simplify-ec2-management-with-lambda-40359d0430dd?source=rss-9505e5fe7f15------2)
 - [Storage in Kubernetes —  Persistent Volume and Claims.](https://blog.devops.dev/storage-in-kubernetes-persistent-volume-and-claims-77d493a36221?source=rss-9505e5fe7f15------2)
