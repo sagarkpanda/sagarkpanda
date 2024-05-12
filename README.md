@@ -127,6 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Data fetching — Data Sources in Terraform/OpenTofu](https://blog.devops.dev/dynamic-data-fetching-data-sources-in-terraform-opentofu-a0ed3e0350b9?source=rss-9505e5fe7f15------2)
 - [Essential Linux Terminal Hacks for Efficiency.](https://faun.pub/essential-linux-terminal-hacks-for-efficiency-1ea5f5bac437?source=rss-9505e5fe7f15------2)
 - [Helm — Your Compass in the Kubernetes Universe](https://faun.pub/helm-your-compass-in-the-kubernetes-universe-424f48f239d3?source=rss-9505e5fe7f15------2)
 - [Simplify EC2 Management with AWS Lambda Function.](https://awstip.com/simplify-ec2-management-with-lambda-40359d0430dd?source=rss-9505e5fe7f15------2)
@@ -136,7 +137,6 @@ My Blogs on DevOps:
 - [If Statement — Conditional in Bash Scripting](https://awstip.com/if-statement-conditional-in-bash-scripting-83cdcdf68e4c?source=rss-9505e5fe7f15------2)
 - [Bash Scripting — Variables and Math Functions](https://faun.pub/variables-and-math-functions-in-bash-db1b8650a898?source=rss-9505e5fe7f15------2)
 - [Introduction to Shell Scripting for Beginners](https://blog.devops.dev/introduction-to-shell-scripting-for-beginners-63a2bca2f428?source=rss-9505e5fe7f15------2)
-- [From Code to Cluster: ArgoCD GitOps for Kubernetes](https://awstip.com/from-code-to-cluster-argocd-gitops-for-kubernetes-895c734677ef?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
