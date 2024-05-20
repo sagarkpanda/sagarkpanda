@@ -127,6 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [K8s Security — Role Based Access Control &lpar;RBAC&rpar;.](https://sagarkpanda.medium.com/k8s-security-role-based-access-control-rbac-9efd225a005f?source=rss-9505e5fe7f15------2)
 - [Dynamic Data fetching — Data Sources in Terraform/OpenTofu](https://blog.devops.dev/dynamic-data-fetching-data-sources-in-terraform-opentofu-a0ed3e0350b9?source=rss-9505e5fe7f15------2)
 - [Essential Linux Terminal Hacks for Efficiency.](https://faun.pub/essential-linux-terminal-hacks-for-efficiency-1ea5f5bac437?source=rss-9505e5fe7f15------2)
 - [Helm — Your Compass in the Kubernetes Universe](https://faun.pub/helm-your-compass-in-the-kubernetes-universe-424f48f239d3?source=rss-9505e5fe7f15------2)
@@ -136,7 +137,6 @@ My Blogs on DevOps:
 - [Nginx Ingress Controller for Kubernetes Networking.](https://faun.pub/nginx-ingress-controller-for-kubernetes-networking-8a452fb66d62?source=rss-9505e5fe7f15------2)
 - [If Statement — Conditional in Bash Scripting](https://awstip.com/if-statement-conditional-in-bash-scripting-83cdcdf68e4c?source=rss-9505e5fe7f15------2)
 - [Bash Scripting — Variables and Math Functions](https://faun.pub/variables-and-math-functions-in-bash-db1b8650a898?source=rss-9505e5fe7f15------2)
-- [Introduction to Shell Scripting for Beginners](https://blog.devops.dev/introduction-to-shell-scripting-for-beginners-63a2bca2f428?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
