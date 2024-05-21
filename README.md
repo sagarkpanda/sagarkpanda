@@ -127,7 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [K8s Security — Role Based Access Control &lpar;RBAC&rpar;.](https://sagarkpanda.medium.com/k8s-security-role-based-access-control-rbac-9efd225a005f?source=rss-9505e5fe7f15------2)
+- [Kubernetes Security — Role Based Access Control &lpar;RBAC&rpar;.](https://blog.devops.dev/k8s-security-role-based-access-control-rbac-9efd225a005f?source=rss-9505e5fe7f15------2)
 - [Dynamic Data fetching — Data Sources in Terraform/OpenTofu](https://blog.devops.dev/dynamic-data-fetching-data-sources-in-terraform-opentofu-a0ed3e0350b9?source=rss-9505e5fe7f15------2)
 - [Essential Linux Terminal Hacks for Efficiency.](https://faun.pub/essential-linux-terminal-hacks-for-efficiency-1ea5f5bac437?source=rss-9505e5fe7f15------2)
 - [Helm — Your Compass in the Kubernetes Universe](https://faun.pub/helm-your-compass-in-the-kubernetes-universe-424f48f239d3?source=rss-9505e5fe7f15------2)
