@@ -133,7 +133,7 @@ My Blogs on DevOps:
 - [Helm — Your Compass in the Kubernetes Universe](https://faun.pub/helm-your-compass-in-the-kubernetes-universe-424f48f239d3?source=rss-9505e5fe7f15------2)
 - [Simplify EC2 Management with AWS Lambda Function.](https://awstip.com/simplify-ec2-management-with-lambda-40359d0430dd?source=rss-9505e5fe7f15------2)
 - [Storage in Kubernetes —  Persistent Volume and Claims.](https://blog.devops.dev/storage-in-kubernetes-persistent-volume-and-claims-77d493a36221?source=rss-9505e5fe7f15------2)
-- [Ingress in K8s — Domain  name based Routing with TLS](https://blog.devops.dev/ingress-in-k8s-hostname-based-routing-with-tls-9173b09ad5c9?source=rss-9505e5fe7f15------2)
+- [Ingress in K8s — Name based Routing with TLS](https://blog.devops.dev/ingress-in-k8s-hostname-based-routing-with-tls-9173b09ad5c9?source=rss-9505e5fe7f15------2)
 - [Nginx Ingress Controller for Kubernetes Networking.](https://faun.pub/nginx-ingress-controller-for-kubernetes-networking-8a452fb66d62?source=rss-9505e5fe7f15------2)
 - [If Statement — Conditional in Bash Scripting](https://awstip.com/if-statement-conditional-in-bash-scripting-83cdcdf68e4c?source=rss-9505e5fe7f15------2)
 - [Bash Scripting — Variables and Math Functions](https://faun.pub/variables-and-math-functions-in-bash-db1b8650a898?source=rss-9505e5fe7f15------2)
