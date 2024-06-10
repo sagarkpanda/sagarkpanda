@@ -127,6 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Monitoring Kubernetes Cluster with Prometheus and Grafana](https://blog.devops.dev/monitoring-k8s-cluster-with-prometheus-and-grafana-b24477d3c43f?source=rss-9505e5fe7f15------2)
 - [Essential Linux Terminal Hacks for Efficiency — Part 2](https://faun.pub/essential-linux-terminal-hacks-for-efficiency-part-2-84c1036d8258?source=rss-9505e5fe7f15------2)
 - [Kubernetes Security — Role Based Access Control &lpar;RBAC&rpar;](https://blog.devops.dev/k8s-security-role-based-access-control-rbac-9efd225a005f?source=rss-9505e5fe7f15------2)
 - [Dynamic Data fetching — Data Sources in Terraform/OpenTofu](https://blog.devops.dev/dynamic-data-fetching-data-sources-in-terraform-opentofu-a0ed3e0350b9?source=rss-9505e5fe7f15------2)
@@ -136,7 +137,6 @@ My Blogs on DevOps:
 - [Storage in Kubernetes —  Persistent Volume and Claims.](https://blog.devops.dev/storage-in-kubernetes-persistent-volume-and-claims-77d493a36221?source=rss-9505e5fe7f15------2)
 - [Ingress in K8s — Name based Routing with TLS](https://blog.devops.dev/ingress-in-k8s-hostname-based-routing-with-tls-9173b09ad5c9?source=rss-9505e5fe7f15------2)
 - [Nginx Ingress Controller for Kubernetes Networking.](https://faun.pub/nginx-ingress-controller-for-kubernetes-networking-8a452fb66d62?source=rss-9505e5fe7f15------2)
-- [If Statement — Conditional in Bash Scripting](https://awstip.com/if-statement-conditional-in-bash-scripting-83cdcdf68e4c?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
