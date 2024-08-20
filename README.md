@@ -127,6 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Beginner’s Guide to AWS WAF and Load Balancer Integration](https://sagarkpanda.medium.com/beginners-guide-to-aws-waf-and-load-balancer-integration-ec28d36728a4?source=rss-9505e5fe7f15------2)
 - [The Essential Role of Exit Codes in Bash Scripting](https://blog.devops.dev/the-essential-role-of-exit-codes-in-bash-scripting-ca87b03340b2?source=rss-9505e5fe7f15------2)
 - [Simplify Docker Management  with Portainer](https://awstip.com/simplify-docker-management-with-portainer-f6783fa56fed?source=rss-9505e5fe7f15------2)
 - [Monitoring Kubernetes Cluster with Prometheus and Grafana](https://blog.devops.dev/monitoring-k8s-cluster-with-prometheus-and-grafana-b24477d3c43f?source=rss-9505e5fe7f15------2)
@@ -136,7 +137,6 @@ My Blogs on DevOps:
 - [Essential Linux Terminal Hacks for Efficiency.](https://faun.pub/essential-linux-terminal-hacks-for-efficiency-1ea5f5bac437?source=rss-9505e5fe7f15------2)
 - [Helm — Your Compass in the Kubernetes Universe](https://faun.pub/helm-your-compass-in-the-kubernetes-universe-424f48f239d3?source=rss-9505e5fe7f15------2)
 - [Simplify EC2 Management with AWS Lambda Function.](https://awstip.com/simplify-ec2-management-with-lambda-40359d0430dd?source=rss-9505e5fe7f15------2)
-- [Storage in Kubernetes —  Persistent Volume and Claims.](https://blog.devops.dev/storage-in-kubernetes-persistent-volume-and-claims-77d493a36221?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
