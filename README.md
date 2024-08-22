@@ -127,7 +127,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner’s Guide to AWS WAF and Load Balancer Integration](https://awstip.com/beginners-guide-to-aws-waf-and-load-balancer-integration-ec28d36728a4?source=rss-9505e5fe7f15------2)
+- [Beginner’s Guide to setup AWS WAF with Load Balancer](https://awstip.com/beginners-guide-to-aws-waf-and-load-balancer-integration-ec28d36728a4?source=rss-9505e5fe7f15------2)
 - [The Essential Role of Exit Codes in Bash Scripting](https://blog.devops.dev/the-essential-role-of-exit-codes-in-bash-scripting-ca87b03340b2?source=rss-9505e5fe7f15------2)
 - [Simplify Docker Management  with Portainer](https://awstip.com/simplify-docker-management-with-portainer-f6783fa56fed?source=rss-9505e5fe7f15------2)
 - [Monitoring Kubernetes Cluster with Prometheus and Grafana](https://blog.devops.dev/monitoring-k8s-cluster-with-prometheus-and-grafana-b24477d3c43f?source=rss-9505e5fe7f15------2)
