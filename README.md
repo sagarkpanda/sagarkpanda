@@ -113,7 +113,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
 
 <!-- <p>
 My Blogs on DevOps:
-</p> -->
+</p> 
 
 <a href = "https://sagarkpanda.medium.com">
 <picture>
@@ -121,7 +121,7 @@ My Blogs on DevOps:
    <source media="(prefers-color-scheme: light)" srcset="images/Medium-dark.svg" width="105px" height="25px"> 
    <img alt="Medium Alternative Theme." src="images/Medium-dark.svg" width="105px" height="25px">
 </picture>
-</p> </a>
+</p> </a> 
 <!-- <details>
 <summary></summary> -->
 📕 Latest Blog Posts
@@ -141,8 +141,16 @@ My Blogs on DevOps:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
+Read More:
 </b>
 
+<a href = "https://sagarkpanda.medium.com">
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="images/Medium-white1x.png" width="105px" height="25px">
+   <source media="(prefers-color-scheme: light)" srcset="images/Medium-dark.svg" width="105px" height="25px"> 
+   <img alt="Medium Alternative Theme." src="images/Medium-dark.svg" width="105px" height="25px">
+</picture>
+</p> </a>
 <!-- <div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=5&id=47915&s=40' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div> -->
 
 <!---
