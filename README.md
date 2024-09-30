@@ -128,6 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Fortify Your Security with CrowdSec — A Quick Start Guide](https://sagarkpanda.medium.com/fortify-your-security-with-crowdsec-a-quick-start-guide-914a6acaf5c6?source=rss-9505e5fe7f15------2)
 - [AWS Secrets Manager — A Secure Solution for Credential Management](https://awstip.com/aws-secrets-manager-a-secure-solution-for-credential-management-0363beabb20b?source=rss-9505e5fe7f15------2)
 - [Beginner’s Guide to setup AWS WAF with Load Balancer](https://awstip.com/beginners-guide-to-aws-waf-and-load-balancer-integration-ec28d36728a4?source=rss-9505e5fe7f15------2)
 - [The Essential Role of Exit Codes in Bash Scripting](https://blog.devops.dev/the-essential-role-of-exit-codes-in-bash-scripting-ca87b03340b2?source=rss-9505e5fe7f15------2)
@@ -137,7 +138,6 @@ My Blogs on DevOps:
 - [Kubernetes Security — Role Based Access Control &lpar;RBAC&rpar;](https://blog.devops.dev/k8s-security-role-based-access-control-rbac-9efd225a005f?source=rss-9505e5fe7f15------2)
 - [Dynamic Data fetching — Data Sources in Terraform/OpenTofu](https://blog.devops.dev/dynamic-data-fetching-data-sources-in-terraform-opentofu-a0ed3e0350b9?source=rss-9505e5fe7f15------2)
 - [Essential Linux Terminal Hacks for Efficiency.](https://faun.pub/essential-linux-terminal-hacks-for-efficiency-1ea5f5bac437?source=rss-9505e5fe7f15------2)
-- [Helm — Your Compass in the Kubernetes Universe](https://faun.pub/helm-your-compass-in-the-kubernetes-universe-424f48f239d3?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
