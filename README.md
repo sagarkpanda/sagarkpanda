@@ -128,6 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Your Own AWS VPC — Simple Terraform Deployment Steps!](https://sagarkpanda.medium.com/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc?source=rss-9505e5fe7f15------2)
 - [The Python Playground —  Experiments and Explorations](https://sagarkpanda.medium.com/the-python-playground-experiments-and-explorations-74dbdc8cb036?source=rss-9505e5fe7f15------2)
 - [Fortify Your Security with CrowdSec — A Quick Start Guide](https://sagarkpanda.medium.com/fortify-your-security-with-crowdsec-a-quick-start-guide-914a6acaf5c6?source=rss-9505e5fe7f15------2)
 - [AWS Secrets Manager — A Secure Solution for Credential Management](https://awstip.com/aws-secrets-manager-a-secure-solution-for-credential-management-0363beabb20b?source=rss-9505e5fe7f15------2)
@@ -137,7 +138,6 @@ My Blogs on DevOps:
 - [Monitoring Kubernetes Cluster with Prometheus and Grafana](https://blog.devops.dev/monitoring-k8s-cluster-with-prometheus-and-grafana-b24477d3c43f?source=rss-9505e5fe7f15------2)
 - [Essential Linux Terminal Hacks for Efficiency — Part 2](https://faun.pub/essential-linux-terminal-hacks-for-efficiency-part-2-84c1036d8258?source=rss-9505e5fe7f15------2)
 - [Kubernetes Security — Role Based Access Control &lpar;RBAC&rpar;](https://blog.devops.dev/k8s-security-role-based-access-control-rbac-9efd225a005f?source=rss-9505e5fe7f15------2)
-- [Dynamic Data fetching — Data Sources in Terraform/OpenTofu](https://blog.devops.dev/dynamic-data-fetching-data-sources-in-terraform-opentofu-a0ed3e0350b9?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
