@@ -128,7 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [How Kubernetes Health Checks Keep Your Apps Running](https://faun.pub/how-kubernetes-health-checks-keep-your-apps-running-159d762a4ea3?source=rss-9505e5fe7f15------2)
+- [Kubernetes Health Checks with Probes](https://faun.pub/how-kubernetes-health-checks-keep-your-apps-running-159d762a4ea3?source=rss-9505e5fe7f15------2)
 - [Build Your Own AWS VPC — Simple Terraform Deployment Steps!](https://blog.devops.dev/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc?source=rss-9505e5fe7f15------2)
 - [The Python Playground —  Experiments and Explorations](https://sagarkpanda.medium.com/the-python-playground-experiments-and-explorations-74dbdc8cb036?source=rss-9505e5fe7f15------2)
 - [Fortify Your Security with CrowdSec — A Quick Start Guide](https://sagarkpanda.medium.com/fortify-your-security-with-crowdsec-a-quick-start-guide-914a6acaf5c6?source=rss-9505e5fe7f15------2)
