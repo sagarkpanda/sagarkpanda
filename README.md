@@ -129,7 +129,7 @@ My Blogs on DevOps:
 
 <!-- BLOG-POST-LIST:START -->
 - [Probe-ably The Only Health Checks You Need in Kubernetes](https://faun.pub/how-kubernetes-health-checks-keep-your-apps-running-159d762a4ea3?source=rss-9505e5fe7f15------2)
-- [Build Your Own AWS VPC — Simple Terraform Deployment Steps!](https://blog.devops.dev/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc?source=rss-9505e5fe7f15------2)
+- [Handcraft Your AWS VPC, Then Let Terraform Take Over](https://blog.devops.dev/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc?source=rss-9505e5fe7f15------2)
 - [The Python Playground —  Experiments and Explorations](https://sagarkpanda.medium.com/the-python-playground-experiments-and-explorations-74dbdc8cb036?source=rss-9505e5fe7f15------2)
 - [Fortify Your Security with CrowdSec — A Quick Start Guide](https://sagarkpanda.medium.com/fortify-your-security-with-crowdsec-a-quick-start-guide-914a6acaf5c6?source=rss-9505e5fe7f15------2)
 - [AWS Secrets Manager — A Secure Solution for Credential Management](https://awstip.com/aws-secrets-manager-a-secure-solution-for-credential-management-0363beabb20b?source=rss-9505e5fe7f15------2)
