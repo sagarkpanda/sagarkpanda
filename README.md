@@ -128,6 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [The Balancing Act —  How AWS ALB Keeps Your Apps in Line!](https://sagarkpanda.medium.com/the-balancing-act-how-aws-alb-keeps-your-apps-in-line-b0bb4a0b63e0?source=rss-9505e5fe7f15------2)
 - [Probe-ably The Only Health Checks You Need in Kubernetes](https://faun.pub/how-kubernetes-health-checks-keep-your-apps-running-159d762a4ea3?source=rss-9505e5fe7f15------2)
 - [Handcraft Your AWS VPC, Then Let Terraform Take Over](https://blog.devops.dev/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc?source=rss-9505e5fe7f15------2)
 - [The Python Playground —  Experiments and Explorations](https://sagarkpanda.medium.com/the-python-playground-experiments-and-explorations-74dbdc8cb036?source=rss-9505e5fe7f15------2)
@@ -137,7 +138,6 @@ My Blogs on DevOps:
 - [The Essential Role of Exit Codes in Bash Scripting](https://blog.devops.dev/the-essential-role-of-exit-codes-in-bash-scripting-ca87b03340b2?source=rss-9505e5fe7f15------2)
 - [Simplify Docker Management  with Portainer](https://awstip.com/simplify-docker-management-with-portainer-f6783fa56fed?source=rss-9505e5fe7f15------2)
 - [Monitoring Kubernetes Cluster with Prometheus and Grafana](https://blog.devops.dev/monitoring-k8s-cluster-with-prometheus-and-grafana-b24477d3c43f?source=rss-9505e5fe7f15------2)
-- [Essential Linux Terminal Hacks for Efficiency — Part 2](https://faun.pub/essential-linux-terminal-hacks-for-efficiency-part-2-84c1036d8258?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
