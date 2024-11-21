@@ -128,7 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [The Balancing Act —  How AWS ALB Keeps Your Apps in Line!](https://sagarkpanda.medium.com/the-balancing-act-how-aws-alb-keeps-your-apps-in-line-b0bb4a0b63e0?source=rss-9505e5fe7f15------2)
+- [The Balancing Act —  How AWS ALB Keeps Your Apps in Line!](https://awstip.com/the-balancing-act-how-aws-alb-keeps-your-apps-in-line-b0bb4a0b63e0?source=rss-9505e5fe7f15------2)
 - [Probe-ably The Only Health Checks You Need in Kubernetes](https://faun.pub/how-kubernetes-health-checks-keep-your-apps-running-159d762a4ea3?source=rss-9505e5fe7f15------2)
 - [Handcraft Your AWS VPC, Then Let Terraform Take Over](https://blog.devops.dev/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc?source=rss-9505e5fe7f15------2)
 - [The Python Playground —  Experiments and Explorations](https://sagarkpanda.medium.com/the-python-playground-experiments-and-explorations-74dbdc8cb036?source=rss-9505e5fe7f15------2)
