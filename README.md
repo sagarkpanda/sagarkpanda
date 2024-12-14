@@ -128,7 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Handshake at First Sight — Setting Up mTLS with NGINX](https://faun.pub/handshake-at-first-sight-setting-up-mtls-with-nginx-3b306ec7061d?source=rss-9505e5fe7f15------2)
+- [Handshake at First Sight — Setting Up mTLS with NGINX](https://blog.devops.dev/handshake-at-first-sight-setting-up-mtls-with-nginx-3b306ec7061d?source=rss-9505e5fe7f15------2)
 - [Loop There It Is — Bashing Through For a While](https://blog.devops.dev/loop-there-it-is-bashing-through-for-a-while-042e6750538e?source=rss-9505e5fe7f15------2)
 - [The Balancing Act —  How AWS ALB Keeps Your Apps in Line!](https://awstip.com/the-balancing-act-how-aws-alb-keeps-your-apps-in-line-b0bb4a0b63e0?source=rss-9505e5fe7f15------2)
 - [Probe-ably The Only Health Checks You Need in Kubernetes](https://faun.pub/how-kubernetes-health-checks-keep-your-apps-running-159d762a4ea3?source=rss-9505e5fe7f15------2)
