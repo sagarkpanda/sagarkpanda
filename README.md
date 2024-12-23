@@ -128,7 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Terraform Modules — Organise Your IAC](https://awstip.com/terraform-modules-organise-your-iac-5a6add95bb07?source=rss-9505e5fe7f15------2)
+- [Terraform Modules — Simplify, Organise and Reuse Your IAC](https://awstip.com/terraform-modules-organise-your-iac-5a6add95bb07?source=rss-9505e5fe7f15------2)
 - [Handshake at First Sight — Setting Up mTLS with NGINX](https://blog.devops.dev/handshake-at-first-sight-setting-up-mtls-with-nginx-3b306ec7061d?source=rss-9505e5fe7f15------2)
 - [Loop There It Is — Bashing Through For a While](https://blog.devops.dev/loop-there-it-is-bashing-through-for-a-while-042e6750538e?source=rss-9505e5fe7f15------2)
 - [The Balancing Act —  How AWS ALB Keeps Your Apps in Line!](https://awstip.com/the-balancing-act-how-aws-alb-keeps-your-apps-in-line-b0bb4a0b63e0?source=rss-9505e5fe7f15------2)
