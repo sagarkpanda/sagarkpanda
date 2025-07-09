@@ -1,5 +1,5 @@
 <p align = "center"> 
-<strong>#OpenToWork</strong>
+<!-- <strong>#OpenToWork</strong> -->
 </p>
 
 <p align = "center"> 
