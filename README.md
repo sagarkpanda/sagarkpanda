@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/apache/apache-o
 GitLab:
 https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-original.svg
 -->
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/develop/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 
 <a href = "https://sagarkrp.medium.com/how-to-install-and-setup-jenkins-on-linux-with-pipeline-job-3e2973229a8f "> <img align="left" alt="Jenkins" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" /> </a>
 
