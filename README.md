@@ -128,6 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Kafka: The Calm Brain in the Middle of Chaotic Microservices.](https://faun.pub/kafka-the-calm-brain-in-the-middle-of-chaotic-microservices-94bf718bdac4?source=rss-9505e5fe7f15------2)
 - [ChatGPT Go FREE for 1 Year in India? Yes — Do This](https://sagarkpanda.medium.com/how-to-get-a-full-year-of-chatgpt-go-for-free-india-only-70fb99c9be02?source=rss-9505e5fe7f15------2)
 - [Terraform Modules — Simplify, Organise and Reuse Your IAC](https://awstip.com/terraform-modules-organise-your-iac-5a6add95bb07?source=rss-9505e5fe7f15------2)
 - [Handshake at First Sight — Setting Up mTLS with NGINX](https://blog.devops.dev/handshake-at-first-sight-setting-up-mtls-with-nginx-3b306ec7061d?source=rss-9505e5fe7f15------2)
@@ -137,7 +138,6 @@ My Blogs on DevOps:
 - [Handcraft Your AWS VPC, Then Let Terraform Take Over](https://blog.devops.dev/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc?source=rss-9505e5fe7f15------2)
 - [The Python Playground —  Experiments and Explorations](https://sagarkpanda.medium.com/the-python-playground-experiments-and-explorations-74dbdc8cb036?source=rss-9505e5fe7f15------2)
 - [Fortify Your Security with CrowdSec — A Quick Start Guide](https://sagarkpanda.medium.com/fortify-your-security-with-crowdsec-a-quick-start-guide-914a6acaf5c6?source=rss-9505e5fe7f15------2)
-- [AWS Secrets Manager — A Secure Solution for Credential Management](https://awstip.com/aws-secrets-manager-a-secure-solution-for-credential-management-0363beabb20b?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
