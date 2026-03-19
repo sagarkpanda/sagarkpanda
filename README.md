@@ -128,7 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka: The Calm Brain in the Middle of Chaotic Microservices.](https://faun.pub/kafka-the-calm-brain-in-the-middle-of-chaotic-microservices-94bf718bdac4?source=rss-9505e5fe7f15------2)
+- [Kafka — The Calm Brain in the Middle of Chaotic Microservices.](https://faun.pub/kafka-the-calm-brain-in-the-middle-of-chaotic-microservices-94bf718bdac4?source=rss-9505e5fe7f15------2)
 - [ChatGPT Go FREE for 1 Year in India? Yes — Do This](https://sagarkpanda.medium.com/how-to-get-a-full-year-of-chatgpt-go-for-free-india-only-70fb99c9be02?source=rss-9505e5fe7f15------2)
 - [Terraform Modules — Simplify, Organise and Reuse Your IAC](https://awstip.com/terraform-modules-organise-your-iac-5a6add95bb07?source=rss-9505e5fe7f15------2)
 - [Handshake at First Sight — Setting Up mTLS with NGINX](https://blog.devops.dev/handshake-at-first-sight-setting-up-mtls-with-nginx-3b306ec7061d?source=rss-9505e5fe7f15------2)
