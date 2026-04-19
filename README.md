@@ -128,6 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Cache Me If You Can — AWS CloudFront in Action](https://awstip.com/cache-me-if-you-can-aws-cloudfront-in-action-9640045ccd67?source=rss-9505e5fe7f15------2)
 - [GitLab Setup Unlocked: Your 10-Minute Fast-Track Guide](https://blog.devops.dev/gitlab-setup-unlocked-your-10-minute-fast-track-guide-2d6dc40de7fb?source=rss-9505e5fe7f15------2)
 - [Kubernetes StatefulSets Explained —  When and Why to Use Them](https://blog.devops.dev/kubernetes-statefulsets-explained-9e9f7d3d4f49?source=rss-9505e5fe7f15------2)
 - [Kafka — The Calm Brain in the Middle of Chaotic Microservices.](https://sagarkpanda.medium.com/kafka-the-calm-brain-in-the-middle-of-chaotic-microservices-94bf718bdac4?source=rss-9505e5fe7f15------2)
@@ -137,7 +138,6 @@ My Blogs on DevOps:
 - [Loop There It Is — Bashing Through For a While](https://blog.devops.dev/loop-there-it-is-bashing-through-for-a-while-042e6750538e?source=rss-9505e5fe7f15------2)
 - [The Balancing Act —  How AWS ALB Keeps Your Apps in Line!](https://awstip.com/the-balancing-act-how-aws-alb-keeps-your-apps-in-line-b0bb4a0b63e0?source=rss-9505e5fe7f15------2)
 - [Probe-ably The Only Health Checks You Need in Kubernetes](https://faun.pub/how-kubernetes-health-checks-keep-your-apps-running-159d762a4ea3?source=rss-9505e5fe7f15------2)
-- [Handcraft Your AWS VPC, Then Let Terraform Take Over](https://blog.devops.dev/build-your-own-aws-vpc-simple-terraform-deployment-steps-795903ce15dc?source=rss-9505e5fe7f15------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
