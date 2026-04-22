@@ -33,5 +33,5 @@ jobs:
 
         with:
 
-          feed_list: "https://sagarkpanda.medium.com/feed"
+          feed_list: "https://sagarpanda.com/blogs/index.xml"
           max_post_count: 10
