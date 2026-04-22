@@ -134,10 +134,10 @@ My Blogs on DevOps:
 - [Kubernetes StatefulSets Explained - When and Why to Use Them](https://sagarpanda.com/blogs/k8s/statefulset/)
 - [Kafka - The Calm Brain in the Middle of Chaotic Microservices.](https://sagarpanda.com/blogs/kafka/)
 - [Terraform Modules - Simplify, Organise and Reuse Your IAC](https://sagarpanda.com/blogs/terraform/tf_module/)
-- [Let’s Encrypt SSL Configuration using Certbot](https://sagarpanda.com/blogs/nginx/letsencrypt_ssl/)
 - [Set Up mTLS in NGINX for Robust Web Security.](https://sagarpanda.com/blogs/nginx/nginx_mtls/)
 - [Kubernetes Health Checks with Probes](https://sagarpanda.com/blogs/k8s/k8s_probes/)
 - [Fortify Your Security with CrowdSec — A Quick Start Guide](https://sagarpanda.com/blogs/linux/crowdsec/)
+- [Automate AWS VPC Setup with Terraform](https://sagarpanda.com/blogs/terraform/terraform_aws_vpc/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
