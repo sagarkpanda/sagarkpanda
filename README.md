@@ -130,14 +130,14 @@ My Blogs on DevOps:
 <!-- BLOG-POST-LIST:START -->
 - [Beyond Objects — Using Amazon S3 Files as a Native File System on EC2](https://sagarpanda.com/blogs/aws/s3files/)
 - [Cache Me If You Can - AWS CloudFront in Action 🌏](https://sagarpanda.com/blogs/aws/cloudfront/)
-- [GitLab Setup Unlocked: Your 10-Minute Fast-Track Guide](https://sagarpanda.com/blogs/gitlab/gitlab_setup/)
+- [GitLab Setup Unlocked: Your 10-Minute Fast-Track Guide](https://sagarpanda.com/blogs/gitlab/gitlab-setup/)
 - [Kubernetes StatefulSets Explained - When and Why to Use Them](https://sagarpanda.com/blogs/k8s/statefulset/)
 - [Kafka - The Calm Brain in the Middle of Chaotic Microservices.](https://sagarpanda.com/blogs/kafka/)
-- [Terraform Modules - Simplify, Organise and Reuse Your IAC](https://sagarpanda.com/blogs/terraform/tf_module/)
-- [Set Up mTLS in NGINX for Robust Web Security.](https://sagarpanda.com/blogs/nginx/nginx_mtls/)
-- [Kubernetes Health Checks with Probes](https://sagarpanda.com/blogs/k8s/k8s_probes/)
+- [Terraform Modules - Simplify, Organise and Reuse Your IAC](https://sagarpanda.com/blogs/terraform/tf-module/)
+- [Set Up mTLS in NGINX for Robust Web Security.](https://sagarpanda.com/blogs/nginx/nginx-mtls/)
+- [Kubernetes Health Checks with Probes](https://sagarpanda.com/blogs/k8s/k8s-probes/)
 - [Fortify Your Security with CrowdSec — A Quick Start Guide](https://sagarpanda.com/blogs/linux/crowdsec/)
-- [Automate AWS VPC Setup with Terraform](https://sagarpanda.com/blogs/terraform/terraform_aws_vpc/)
+- [Automate AWS VPC Setup with Terraform](https://sagarpanda.com/blogs/terraform/terraform-aws-vpc/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
