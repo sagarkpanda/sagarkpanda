@@ -1,0 +1,21 @@
+name: Manual Hello Trigger
+
+on:
+  workflow_dispatch: # This removes the "on push" behavior
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write  # Crucial: allows this workflow to start another one
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    steps:
+      - name: Print Hello
+        run: echo "Hello, world! Starting deployment..."
+
+      - name: Trigger Deployment
+        run: |
+          # Matches the 'name' of your other workflow file
+          gh workflow run "sagarpanda.com" --ref main
