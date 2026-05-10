@@ -17,5 +17,4 @@ jobs:
 
       - name: Trigger Deployment
         run: |
-          # Matches the 'name' of your other workflow file
           gh workflow run "sagarpanda.com" --ref main
