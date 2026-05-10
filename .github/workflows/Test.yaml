@@ -1,19 +1,22 @@
 name: Manual Hello Trigger
 
 on:
-  workflow_dispatch: # This removes the "on push" behavior
+  workflow_dispatch:
 
 jobs:
   say-hello:
     runs-on: ubuntu-latest
     permissions:
-      actions: write  # Crucial: allows this workflow to start another one
+      actions: write
     env:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4 # This fixes the "not a git repository" error
+
       - name: Print Hello
-        run: echo "Hello, world! Starting deployment..."
+        run: echo "Hello, world!"
 
       - name: Trigger Deployment
         run: |
