@@ -12,12 +12,17 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4 # This fixes the "not a git repository" error
+      #- name: Checkout
+        #uses: actions/checkout@v4
 
       - name: Print Hello
         run: echo "Hello, world!"
 
+      #- name: Trigger Deployment
+       # run: |
+         # gh workflow run "sagarpanda.com" --ref main
+
       - name: Trigger Deployment
         run: |
-          gh workflow run "sagarpanda.com" --ref main
+          gh workflow run "sagarpanda.com" --ref main --repo ${{ github.repository }}
+          
