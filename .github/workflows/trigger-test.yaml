@@ -1,4 +1,4 @@
-name: Trigger Wo another workflow
+name: Trigger another workflow
 
 on:
   workflow_dispatch:
