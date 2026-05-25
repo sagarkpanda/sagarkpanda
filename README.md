@@ -141,6 +141,17 @@ My Blogs on DevOps:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
+
+<p align="center">
+  <a href="https://yourwebsite.com">
+    <img 
+      src="images/website.png"
+      alt="Sagar Panda Blog"
+      width="100%"
+      style="max-width:900px;"
+    />
+  </a>
+</p>
 Read More:
 </b>
 
