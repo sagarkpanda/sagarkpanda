@@ -128,7 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond CI/CD — Automating Repository Workflows with GitHub Actions](https://sagarpanda.com/blogs/github-automation/)
+- [Turn Your GitHub Repository into a Self-Managing Workflow](https://sagarpanda.com/blogs/github-automation/)
 - [Beyond Objects — Using Amazon S3 Files as a Native File System on EC2](https://sagarpanda.com/blogs/aws/s3files/)
 - [Cache Me If You Can - AWS CloudFront in Action 🌏](https://sagarpanda.com/blogs/aws/cloudfront/)
 - [GitLab Setup Unlocked: Your 10-Minute Fast-Track Guide](https://sagarpanda.com/blogs/gitlab/gitlab-setup/)
