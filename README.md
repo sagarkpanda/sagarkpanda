@@ -142,26 +142,24 @@ My Blogs on DevOps:
 
 <!-- </details> -->
 
-<p align="center">
-  <a href="https://yourwebsite.com">
-    <img 
-      src="images/website.png"
-      alt="Sagar Panda Blog"
-      width="100%"
-      style="max-width:900px;"
-    />
-  </a>
-</p>
-Read More:
+<!--Read More: -->
 </b>
+<a href="https://sagarpanda.com/blogs/">
+  <img 
+    src="images/website.png"
+    alt="Sagar Panda Blog"
+    width="100%"
+  />
+</a>
 
-<a href = "https://sagarkpanda.medium.com">
+<!-- <a href = "https://sagarkpanda.medium.com">
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="images/Medium-white1x.png" width="105px" height="25px">
    <source media="(prefers-color-scheme: light)" srcset="images/Medium-dark.svg" width="105px" height="25px"> 
    <img alt="Medium Alternative Theme." src="images/Medium-dark.svg" width="105px" height="25px">
 </picture>
-</p> </a>
+</p> </a> -->
+
 <!-- <div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=5&id=47915&s=40' border='0' alt='Free Website Counter'></a><br / ><small><a href='https://www.websitecounterfree.com' title="Free Website Counter">Free Website Counter</a></small></div> -->
 
 <!---
