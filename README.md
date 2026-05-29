@@ -147,7 +147,7 @@ My Blogs on DevOps:
 <a href="https://sagarpanda.com/blogs/">
   <img 
     src="images/website.png"
-    alt="Sagar Panda Blog"
+    alt="Sagar Panda's Blogs"
     width="100%"
   />
 </a>
