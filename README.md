@@ -128,6 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Hands-On OpenTelemetry: Prometheus, Jaeger, Grafana, and the OTel Demo](https://sagarpanda.com/blogs/monitoring/opentelemetry/)
 - [Observability 101: Understanding Metrics, Traces and Logs](https://sagarpanda.com/blogs/monitoring/observability/)
 - [Turn Your GitHub Repository into a Self-Managing Workflow](https://sagarpanda.com/blogs/github-automation/)
 - [Beyond Objects — Using Amazon S3 Files as a Native File System on EC2](https://sagarpanda.com/blogs/aws/s3files/)
@@ -137,7 +138,6 @@ My Blogs on DevOps:
 - [Kafka - The Calm Brain in the Middle of Chaotic Microservices.](https://sagarpanda.com/blogs/kafka/)
 - [Terraform Modules - Simplify, Organise and Reuse Your IAC](https://sagarpanda.com/blogs/terraform/tf-module/)
 - [Set Up mTLS in NGINX for Robust Web Security.](https://sagarpanda.com/blogs/nginx/nginx-mtls/)
-- [Kubernetes Health Checks with Probes](https://sagarpanda.com/blogs/k8s/k8s-probes/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
