@@ -128,7 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On OpenTelemetry: Prometheus, Jaeger, Grafana, and the OTel Demo](https://sagarpanda.com/blogs/monitoring/opentelemetry/)
+- [Hands-On OpenTelemetry: Prometheus, Jaeger, Grafana and the OTel Demo](https://sagarpanda.com/blogs/monitoring/opentelemetry/)
 - [Observability 101: Understanding Metrics, Traces and Logs](https://sagarpanda.com/blogs/monitoring/observability/)
 - [Turn Your GitHub Repository into a Self-Managing Workflow](https://sagarpanda.com/blogs/github-automation/)
 - [Beyond Objects — Using Amazon S3 Files as a Native File System on EC2](https://sagarpanda.com/blogs/aws/s3files/)
