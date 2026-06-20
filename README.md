@@ -128,6 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Seeing Inside Amazon EKS with OpenTelemetry](https://sagarpanda.com/blogs/monitoring/otel-on-eks/)
 - [Hands-On OpenTelemetry: Prometheus, Jaeger, Grafana and the OTel Demo](https://sagarpanda.com/blogs/monitoring/opentelemetry/)
 - [Observability 101: Understanding Metrics, Traces and Logs](https://sagarpanda.com/blogs/monitoring/observability/)
 - [Turn Your GitHub Repository into a Self-Managing Workflow](https://sagarpanda.com/blogs/github-automation/)
@@ -137,7 +138,6 @@ My Blogs on DevOps:
 - [Kubernetes StatefulSets Explained - When and Why to Use Them](https://sagarpanda.com/blogs/k8s/statefulset/)
 - [Kafka - The Calm Brain in the Middle of Chaotic Microservices.](https://sagarpanda.com/blogs/kafka/)
 - [Terraform Modules - Simplify, Organise and Reuse Your IAC](https://sagarpanda.com/blogs/terraform/tf-module/)
-- [Set Up mTLS in NGINX for Robust Web Security.](https://sagarpanda.com/blogs/nginx/nginx-mtls/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
