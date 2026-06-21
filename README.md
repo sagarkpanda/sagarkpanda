@@ -128,7 +128,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
-- [Seeing Inside Amazon EKS with OpenTelemetry](https://sagarpanda.com/blogs/monitoring/otel-on-eks/)
+- [Seeing Inside Amazon EKS with OpenTelemetry 🔍](https://sagarpanda.com/blogs/monitoring/otel-on-eks/)
 - [Hands-On OpenTelemetry: Prometheus, Jaeger, Grafana and the OTel Demo](https://sagarpanda.com/blogs/monitoring/opentelemetry/)
 - [Observability 101: Understanding Metrics, Traces and Logs](https://sagarpanda.com/blogs/monitoring/observability/)
 - [Turn Your GitHub Repository into a Self-Managing Workflow](https://sagarpanda.com/blogs/github-automation/)
