@@ -74,7 +74,9 @@ https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-o
  
 <!-- <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" style="padding-right:10px;" /> -->
     
-<img align="left" alt="Gitlab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
+<a href="https://gitlab.com/sagarkpanda/fakeweb" target="_blank">
+  <img align="left" alt="Gitlab" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/gitlab/gitlab-original.svg" style="padding-right:10px;" />
+</a>
 
 <a href = "https://medium.com/@sagarkpanda/list/7f6f807edcf2" >
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
