@@ -154,6 +154,16 @@ My Blogs on DevOps:
   />
 </a>
 
+<!-- snake graph
+![](https://github.com/sagarkpanda/sagarkpanda/blob/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="blob/output/github-contribution-grid-snake.svg" />
+</picture>
+--> 
+
 <!-- <a href = "https://sagarkpanda.medium.com">
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="images/Medium-white1x.png" width="105px" height="25px">
