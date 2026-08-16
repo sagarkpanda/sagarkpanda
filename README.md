@@ -130,6 +130,7 @@ My Blogs on DevOps:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [End-to-End DevSecOps on EKS: Code, Containers, Kubernetes &amp; Runtime Security](https://sagarpanda.com/blogs/devsecops/)
 - [Hands-On Lab: Build Single Sign-On &lpar;SSO&rpar; with LDAP, Keycloak, Okta, OIDC &amp; Grafana](https://sagarpanda.com/blogs/ldap-sso/)
 - [Seeing Inside Amazon EKS with OpenTelemetry 🔍](https://sagarpanda.com/blogs/monitoring/otel-on-eks/)
 - [Hands-On OpenTelemetry: Prometheus, Jaeger, Grafana and the OTel Demo](https://sagarpanda.com/blogs/monitoring/opentelemetry/)
@@ -139,7 +140,6 @@ My Blogs on DevOps:
 - [Cache Me If You Can - AWS CloudFront in Action 🌏](https://sagarpanda.com/blogs/aws/cloudfront/)
 - [GitLab Setup Unlocked: Your 10-Minute Fast-Track Guide](https://sagarpanda.com/blogs/gitlab/gitlab-setup/)
 - [Kubernetes StatefulSets Explained - When and Why to Use Them](https://sagarpanda.com/blogs/k8s/statefulset/)
-- [Kafka - The Calm Brain in the Middle of Chaotic Microservices.](https://sagarpanda.com/blogs/kafka/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- </details> -->
